@@ -1,5 +1,5 @@
 "name","ring","quadrant","isNew","description"
-Viper,Adopt,Techniques,FALSE,""
+Viper,Adopt,Techniques,FALSE,"Viper architecutre"
 Coordinator,Trial,Techniques,FALSE,""
 Modular architecture,Adopt,Techniques,FALSE,""
 Snapshot tests,Adopt,Techniques,FALSE,""
