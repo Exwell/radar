@@ -1,10 +1,37 @@
-"name","ring","quadrant","isNew","description"
-Viper,Adopt,Techniques,FALSE,""
-Coordinator,Trial,Techniques,FALSE,""
-modular architecture,Adopt,Techniques,FALSE,""
-Snapshot tests,Adopt,Techniques,FALSE,""
-UI-тесты,Trial,Techniques,FALSE,""
-Promise,Adopt,Techniques,FALSE,""
-Objective-c,Hold,languages-and-frameworks,FALSE,""
-swiftlint,Adopt,Tools,FALSE,""
-Nexus,Adopt,Platforms,FALSE,""
+name;ring;quadrant;isNew;description
+Viper;Adopt;Techniques;FALSE;
+Coordinator;Trial;Techniques;FALSE;
+Modular architecture;Adopt;Techniques;FALSE;
+Snapshot tests;Adopt;Techniques;FALSE;
+UI-тесты;Trial;Techniques;FALSE;
+Promise;Adopt;Techniques;FALSE;
+Objective-c;Hold;languages-and-frameworks;FALSE;
+Swift;Adopt;languages-and-frameworks;FALSE;
+Core data;Adopt;languages-and-frameworks;FALSE;
+Ruby;Adopt;languages-and-frameworks;FALSE;
+iOSSnapshotTestCase;Adopt;languages-and-frameworks;FALSE;
+RXSwift;Hold;languages-and-frameworks;FALSE;
+Charts;Adopt;languages-and-frameworks;FALSE;
+Alamofire;Hold;languages-and-frameworks;FALSE;
+Core-api @ yoomoney;Adopt;languages-and-frameworks;FALSE;
+Functional-swift @ yoomoney;Adopt;languages-and-frameworks;FALSE;
+Cuckoo;Assess;languages-and-frameworks;FALSE;
+OHHTTPStubs;Adopt;languages-and-frameworks;FALSE;
+Swiftlint;Adopt;Tools;FALSE;
+CocoaPods;Adopt;Tools;FALSE;
+ProxyMan;Adopt;Tools;FALSE;
+Reveal;Adopt;Tools;FALSE;
+Fastlane;Adopt;Tools;FALSE;
+Carthage;Adopt;Tools;FALSE;
+Sourcery;Assess;Tools;FALSE;
+Swift Package Manager;Assess;Tools;FALSE;
+Flex;Adopt;Tools;FALSE;
+Generamba;Adopt;Tools;FALSE;
+SonarQube;Assess;Tools;FALSE;
+Figma;Adopt;Tools;FALSE;
+Nexus;Adopt;Platforms;FALSE;
+Bitbucket;Adopt;Platforms;FALSE;
+Jenkins;Adopt;Platforms;FALSE;
+Weblate;Adopt;Platforms;FALSE;
+Github;Adopt;Platforms;FALSE;
+Jira;Adopt;Platforms;FALSE;
